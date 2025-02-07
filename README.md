@@ -3,7 +3,7 @@
 - 📚 Sempre aprendendo algo novo.
 - 🎯 Meu objetivo é me tornar um desenvolvedor fullstack.
 - 👨‍💻 Sou formado em Técnico em Desenvolvimento de Sistemas pela Etec Professor Camargo Aranha.
-<hr width="75%" size="1">
+<hr size="1">
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="30px"/>&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="30px"/>&nbsp;&nbsp;
@@ -15,7 +15,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-plain.svg" width="30px"/>&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="30px"/>
 </p>
-<hr width="75%" size="1">
+<hr size="1">
 <div align="center">
   <a href="https://www.linkedin.com/in/guilhermevmolina">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
