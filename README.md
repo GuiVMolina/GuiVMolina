@@ -8,6 +8,8 @@
   - 🎯 Meu objetivo é me tornar um bom **Dev**.
     
   - 👨‍💻 Tenho formação de **Técnico em Desenvolvimento de Sistemas** pela Etec Professor Camargo Aranha.
+
+  - 🏃‍♂️‍➡️ Atualmente indo atrás da formação de **Design Gráfico** pela Etec José Rocha Mendes.
 </div>
 
 ##
