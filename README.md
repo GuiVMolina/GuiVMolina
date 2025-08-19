@@ -3,11 +3,11 @@
 - 🎨 Apaixonado por **tecnologia e design**, unindo criatividade com lógica.  
 - 📚 Sempre buscando aprender algo novo para evoluir como profissional.  
 - 🎯 Focado em crescer como **Desenvolvedor** e **Designer**.  
-- 👨‍💻 Técnico em Desenvolvimento de Sistemas pela **Etec Professor Camargo Aranha**.  
+- 👨‍💻 Técnico em **Desenvolvimento de Sistemas** pela **Etec Professor Camargo Aranha**.  
 - 🏃‍♂️ Atualmente cursando **Design Gráfico** na **Etec José Rocha Mendes**.  
+- 💡 Ampliando os conhecimentos de **Desenvolvimento de Sistemas** no **Senai Paulo Antônio Skaf**.  
 
 ##
-
 <h3 align="center">💻 Tecnologias</h3>
 
 <p align="center">
@@ -21,7 +21,6 @@
 </p>
 
 ##
-
 <h3 align="center">📊 Estatísticas</h3>
 
 <div align="center">
@@ -30,7 +29,6 @@
 </div>
 
 ##
-
 <h3 align="center">📬 Onde me encontrar</h3>
 
 <div align="center">
