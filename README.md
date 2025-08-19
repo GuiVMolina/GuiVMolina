@@ -1,37 +1,49 @@
 <h3 align="center">🚀 Sobre Mim</h3>
-<div>
   
-  - 🎨 Apaixonado por tecnologia, design e desenvolvimento de software.
-  
-  - 📚 Sempre aprendendo algo novo.
-    
-  - 🎯 Meu objetivo é me tornar um bom **Dev**.
-    
-  - 👨‍💻 Tenho formação de **Técnico em Desenvolvimento de Sistemas** pela Etec Professor Camargo Aranha.
-
-  - 🏃‍♂️‍➡️ Atualmente indo atrás da formação de **Design Gráfico** pela Etec José Rocha Mendes.
-</div>
+- 🎨 Apaixonado por **tecnologia e design**, unindo criatividade com lógica.  
+- 📚 Sempre buscando aprender algo novo para evoluir como profissional.  
+- 🎯 Focado em crescer como **Desenvolvedor** e **Designer**.  
+- 👨‍💻 Técnico em Desenvolvimento de Sistemas pela **Etec Professor Camargo Aranha**.  
+- 🏃‍♂️ Atualmente cursando **Design Gráfico** na **Etec José Rocha Mendes**.  
 
 ##
+
+<h3 align="center">💻 Tecnologias</h3>
+
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="30px"/>&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="30px"/>&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="30px"/>&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="30px"/>&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="30px"/>&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="30px"/>&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" width="30px"/><br>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/illustrator/illustrator-plain.svg" width="30px"/>&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" width="30px"/>&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="30px"/>
+  <!-- Desenvolvimento -->
+  <img src="https://skillicons.dev/icons?i=html,css,cpp,cs,vscode,visualstudio,git,github" />
+</p>
+
+<p align="center">
+  <!-- Design -->
+  <img src="https://skillicons.dev/icons?i=ai,ps,figma" />
 </p>
 
 ##
+
+<h3 align="center">📊 Estatísticas</h3>
+
 <div align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=GuiVMolina&show_icons=true&theme=tokyonight" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuiVMolina&layout=compact&theme=tokyonight" />
+</div>
+
+##
+
+<h3 align="center">📬 Onde me encontrar</h3>
+
+<div align="center">
+  <a href="mailto:guilhermevmolina@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://github.com/GuiVMolina">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
+  </a>
   <a href="https://www.linkedin.com/in/guilhermevmolina" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   <a href="https://www.behance.net/guimolina" target="_blank">
-    <img src="https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white" target="_blank">
+    <img src="https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white">
   </a>
 </div>
