@@ -24,8 +24,8 @@
 <h3 align="center">📊 Estatísticas</h3>
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=GuiVMolina&show_icons=true&theme=midnight-purple&locale=pt-br&rank_icon=github&include_all_commits=true" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuiVMolina&layout=compact&theme=midnight-purple&locale=pt-br" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=GuiVMolina&title_color=5500ff&text_color=ffffff&show_icons=true&icon_color=5500ff&bg_color=90,000000,1e0059&hide_border=true&border_radius=5&locale=pt-br&rank_icon=github&include_all_commits=true" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuiVMolina&layout=compact&title_color=00aaff&text_color=ffffff&show_icons=true&icon_color=00aaff&bg_color=90,000000,003b59&hide_border=true&border_radius=5&locale=pt-br&rank_icon=github&include_all_commits=true" />
 </div>
 
 ##
