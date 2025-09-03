@@ -25,7 +25,7 @@
 
 <div align="center">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=GuiVMolina&locale=pt-br&title_color=6C63FF&text_color=EDEDED&show_icons=true&icon_color=00FFAA&bg_color=90,0D0D0D,1B0033&ring_color=00FFAA&hide_border=true&border_radius=10&rank_icon=github&include_all_commits=true&line_height=20&text_bold=false" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuiVMolina&locale=pt-br&layout=compact&title_color=00D1FF&text_color=EDEDED&bg_color=90,0D0D0D,002B40&hide_border=true&border_radius=10" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuiVMolina&locale=pt-br&layout=compact&title_color=00D1FF&text_color=EDEDED&bg_color=90,0D0D0D,002B40&hide_border=true&border_radius=10&hide=C" />
 </div>
 
 ##
