@@ -25,8 +25,8 @@
 
 <!-- Estatísticas -->
 <div align="center">
-  <img height="199.9em" src="https://github-readme-stats.vercel.app/api?username=GuiVMolina&locale=pt-br&title_color=ff5500&text_color=FFFFFF&show_icons=true&icon_color=ff5500&bg_color=90,000000,401500&hide_border=true&border_radius=10&rank_icon=github&include_all_commits=true"/>
-  <img height="199.9em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuiVMolina&locale=pt-br&layout=compact&title_color=ff0055&text_color=FFFFFF&bg_color=90,000000,400015&hide_border=true&border_radius=10&hide=C"/>
+  <img height="199.999em" src="https://github-readme-stats.vercel.app/api?username=GuiVMolina&locale=pt-br&title_color=ff5500&text_color=FFFFFF&show_icons=true&icon_color=ff5500&bg_color=90,000000,401500&hide_border=true&border_radius=10&rank_icon=github&include_all_commits=true"/>
+  <img height="199.999em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuiVMolina&locale=pt-br&layout=compact&title_color=ff0055&text_color=FFFFFF&bg_color=90,000000,400015&hide_border=true&border_radius=10&hide=C"/>
 </div>
 
 <!-- Badges -->
