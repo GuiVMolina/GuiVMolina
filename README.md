@@ -33,6 +33,7 @@
 <p align="center">
   <a href="https://www.credly.com/badges/d87e5104-55c2-48e9-b284-aa99a2b3bb9b/public_url" target="blank"><img width="15%" src="https://images.credly.com/size/680x680/images/73e4a58b-a8ef-41a3-a7db-9183dd269882/image.png" alt="Badge AWS Cloud Foundations"/></a>
   <a href="https://www.credly.com/badges/d4de8c40-748a-424b-9fa6-3080e194234e/public_url" target="blank"><img width="15%" src="https://images.credly.com/size/680x680/images/119182cf-ca68-495a-a415-bff62dfdcc7e/image.png" alt="Badge AWS Cloud Architecting"/></a>
+  <a href="https://www.credly.com/badges/f2ee5c79-0806-48d5-ac75-563382e766be/public_url" target="blank"><img width="15%" src="https://images.credly.com/size/680x680/images/7fa09e71-4149-4d59-9066-14fc8a3e0f39/blob" alt="Badge AWS Generative AI Foundations"/></a>
 </p>
 
 <!-- Pacman -->
