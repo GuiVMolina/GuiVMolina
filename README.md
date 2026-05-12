@@ -13,10 +13,10 @@
 <h3 align="center">💻 Tecnologias</h3>
 
 <p align="center">
-  <!-- Desenvolvimento --><img src="https://skillicons.dev/icons?i=html,css,js,ts,cpp,cs,vscode,visualstudio"/>
+  <!-- Back-end --><img src="https://skillicons.dev/icons?i=js,ts,cpp,cs,dotnet,mysql,vscode,visualstudio"/>
 </p>
 <p align="center">
-  <!-- Design --><img src="https://skillicons.dev/icons?i=ai,ps,figma"/>
+  <!-- Front-end --><img src="https://skillicons.dev/icons?i=html,css,nodejs,react,next,ai,ps,figma"/>
 </p>
 
 <img align="center" height="32" width="100%" src="https://github.com/GuiVMolina/Imagens/blob/main/readme/line-glow-orange-pink.png">
