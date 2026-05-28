@@ -7,7 +7,8 @@
 
 - 🎨 Apaixonado por **tecnologia e design**
 - 📚 Sempre aprendendo para evoluir profissionalmente  
-- 👨‍💻 Técnico em **Desenvolvimento de Sistemas** e **Design Gráfico**
+- 👨‍💻 Técnico em **Desenvolvimento de Sistemas**
+- 🖼️ + Técnico em **Design Gráfico**
 
 <img align="center" height="32" width="100%" src="https://github.com/GuiVMolina/Imagens/blob/main/readme/line-glow-orange-pink.png">
 <h3 align="center">💻 Tecnologias</h3>
