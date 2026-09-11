@@ -1,14 +1,15 @@
+<h3 align = "center">🚀 Sobre Mim</h3>
 <p>
   <img align="left" height="180em" src="https://github.com/GuiVMolina/Imagens/blob/main/readme/tenna.gif">
-  <img align="right" height="180em" src="https://github.com/GuiVMolina/Imagens/blob/main/readme/tenna.gif">
 </p>
 
-<h3 align = "center">🚀 Sobre Mim</h3>
-
-- 🎨 Apaixonado por **tecnologia e design**
-- 📚 Sempre aprendendo para evoluir profissionalmente  
-- 👨‍💻 Técnico em **Desenvolvimento de Sistemas**
-- 🖼️ + Técnico em **Design Gráfico**
+- 💻 Atuando no desenvolvimento **Web & Mobile** (React, Next.js, React Native e C# .NET Core)
+- 🎨 Formado em **Design Gráfico** com foco em UI/UX, Acessibilidade (WCAG) e Design Systems
+- ☁️ Certificado pelas plataformas de nuvem **AWS** e **Microsoft Azure**
+- 🎓 Cursando **Desenvolvimento de Sistemas** e focado na evolução constante
+- ⚡ Experiência em integração de **APIs RESTful**, bancos relacionais (**SQL Server**) e arquiteturas limpas
+- 🤖 Explorando aplicação prática de **Inteligência Artificial e Nuvem** em projetos reais
+- 🛠️ Sempre construindo novos projetos, estudando arquitetura de software e evoluindo
 
 <img align="center" height="32" width="100%" src="https://github.com/GuiVMolina/Imagens/blob/main/readme/line-glow-orange-pink.png">
 <h3 align="center">💻 Tecnologias</h3>
