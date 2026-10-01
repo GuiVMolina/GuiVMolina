@@ -15,10 +15,13 @@
 <h3 align="center">💻 Tecnologias</h3>
 
 <p align="center">
-  <!-- Back-end --><img src="https://skillicons.dev/icons?i=js,ts,cpp,cs,dotnet,mysql,python,vscode,visualstudio"/>
+  <!-- Back-end --><img src="https://skillicons.dev/icons?i=js,ts,cpp,cs,dotnet,nodejs,python,java,vscode,visualstudio"/>
 </p>
 <p align="center">
-  <!-- Front-end --><img src="https://skillicons.dev/icons?i=html,css,nodejs,react,next,ai,ps,figma"/>
+  <!-- Front-end --><img src="https://skillicons.dev/icons?i=html,css,react,next,ai,ps,xd,figma"/>
+</p>
+<p align="center">
+  <!-- Banco & Nuvem & Documentação --><img src="https://skillicons.dev/icons?i=postman,mysql,notion,obsidian,aws,azure"/>
 </p>
 
 <!-- <img align="center" height="32" width="100%" src="https://github.com/GuiVMolina/Imagens/blob/main/readme/line-glow-orange-pink.png">
