@@ -58,7 +58,6 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=GuiVMolina&color=000000&label_color=FFFFFF&style=for-the-badge&label=Visitas"/>
   <a href="mailto:guilhermevmolina@gmail.com"><img src="https://img.shields.io/badge/Gmail-FF3B30?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://github.com/GuiVMolina"><img src="https://img.shields.io/badge/GitHub-24292F?style=for-the-badge&logo=github&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/guilhermevmolina" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://www.behance.net/guimolina" target="_blank"><img src="https://img.shields.io/badge/Behance-0057FF?style=for-the-badge&logo=behance&logoColor=white"></a>
 </p>
